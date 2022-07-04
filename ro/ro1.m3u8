@@ -1,4 +1,112 @@
 #EXTM3U
 
-#EXTINF:-1,Arcadia Tv
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:-1,(RO) Cinemax 2 Europe (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15473
+
+#EXTINF:-1,(RO) DIGI FILIM (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15521
+
+#EXTINF:-1,(RO) Digi 24 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15517
+
+#EXTINF:-1,(RO) Digi Animal World (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15518
+
+#EXTINF:-1,(RO) Digi Life (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15519
+
+#EXTINF:-1,(RO) Digi Sport 1 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15455
+
+#EXTINF:-1,(RO) Digi Sport 2 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15454
+
+#EXTINF:-1,(RO) Digi Sport 3 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15453
+
+#EXTINF:-1,(RO) Digi Sport 4 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15452
+
+#EXTINF:-1,(RO) Digi World (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15520
+
+#EXTINF:-1,(RO) HBO 2 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15523
+
+#EXTINF:-1,(RO) HBO 3 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15522
+
+#EXTINF:-1,(RO) HBO 3 Central Europe (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15470
+
+#EXTINF:-1,(RO) HBO Romania (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15524
+
+#EXTINF:-1,(RO) Look Plus (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15515
+
+#EXTINF:-1,(RO) Look Tv (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15513
+
+#EXTINF:-1,RO: BBC EARTH (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271562
+
+#EXTINF:-1,RO: CINEMARATON (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271501
+
+#EXTINF:-1,RO: CINEMAX 1 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271496
+
+#EXTINF:-1,RO: CINEMAX 2 HD (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271497
+
+#EXTINF:-1,RO: DIGI 24 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271474
+
+#EXTINF:-1,RO: DIGI ANIMAL WORLD (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271548
+
+#EXTINF:-1,RO: DIGI LIFE (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271513
+
+#EXTINF:-1,RO: DIGI SPORT 1 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271571
+
+#EXTINF:-1,RO: DIGI SPORT 2 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271572
+
+#EXTINF:-1,RO: DIGI SPORT 3 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271573
+
+#EXTINF:-1,RO: DIGI SPORT 4 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271574
+
+#EXTINF:-1,RO: DIGI WORLD (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271512
+
+#EXTINF:-1,RO: DOCUBOX (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271564
+
+#EXTINF:-1,RO: FILM NOW (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271502
+
+#EXTINF:-1,RO: HBO 2 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271492
+
+#EXTINF:-1,RO: HBO 3 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271493
+
+#EXTINF:-1,RO: HBO 3 CENTRAL EUROPE (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271494
+
+#EXTINF:-1,RO: HBO ROMANIA (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271491
+
+#EXTINF:-1,RO: LOOK PLUS (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271515
+
+#EXTINF:-1,RO: LOOK SPORT HD (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271570
+
+#EXTINF:-1,RO: TELEKOM SPORT 1 (1)
+http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1271569
