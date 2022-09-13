@@ -1,337 +1,433 @@
 #EXTM3U
 
 #EXTINF:-1,[1] RO | CINEMAX 2
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5578
-
-#EXTINF:-1,[1] RO | DIGI 24
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5579
-
-#EXTINF:-1,[1] RO | DIGI 24 CRAIOVA
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5580
-
-#EXTINF:-1,[1] RO | DIGI ANIMAL WORLD
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5581
-
-#EXTINF:-1,[1] RO | DIGI FILM
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5582
-
-#EXTINF:-1,[1] RO | DIGI WORLD
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5588
-
-#EXTINF:-1,[1] RO | Digi Life
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5583
-
-#EXTINF:-1,[1] RO | Digi Sport 1
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5584
-
-#EXTINF:-1,[1] RO | Digi Sport 2
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5585
-
-#EXTINF:-1,[1] RO | Digi Sport 3
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5586
-
-#EXTINF:-1,[1] RO | Digi Sport 4
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5587
-
-#EXTINF:-1,[1] RO | Digi24
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5589
-
-#EXTINF:-1,[1] RO | HBO 2
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5600
-
-#EXTINF:-1,[1] RO | HBO 3
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5601
-
-#EXTINF:-1,[1] RO | HBO Romania
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5602
-
-#EXTINF:-1,[1] RO | Look Plus
-http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5608
-
-#EXTINF:-1,[2] RO | CINEMAX 2
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5578
-
-#EXTINF:-1,[2] RO | DIGI 24
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5579
-
-#EXTINF:-1,[2] RO | DIGI 24 CRAIOVA
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5580
-
-#EXTINF:-1,[2] RO | DIGI ANIMAL WORLD
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5581
-
-#EXTINF:-1,[2] RO | DIGI FILM
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5582
-
-#EXTINF:-1,[2] RO | DIGI WORLD
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5588
-
-#EXTINF:-1,[2] RO | Digi Life
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5583
-
-#EXTINF:-1,[2] RO | Digi Sport 1
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5584
-
-#EXTINF:-1,[2] RO | Digi Sport 2
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5585
-
-#EXTINF:-1,[2] RO | Digi Sport 3
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5586
-
-#EXTINF:-1,[2] RO | Digi Sport 4
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5587
-
-#EXTINF:-1,[2] RO | Digi24
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5589
-
-#EXTINF:-1,[2] RO | HBO 2
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5600
-
-#EXTINF:-1,[2] RO | HBO 3
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5601
-
-#EXTINF:-1,[2] RO | HBO Romania
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5602
-
-#EXTINF:-1,[2] RO | Look Plus
-http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5608
-
-#EXTINF:-1,[3] RO | CINEMAX 2
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5578
-
-#EXTINF:-1,[3] RO | DIGI 24
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5579
-
-#EXTINF:-1,[3] RO | DIGI 24 CRAIOVA
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5580
-
-#EXTINF:-1,[3] RO | DIGI ANIMAL WORLD
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5581
-
-#EXTINF:-1,[3] RO | DIGI FILM
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5582
-
-#EXTINF:-1,[3] RO | DIGI WORLD
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5588
-
-#EXTINF:-1,[3] RO | Digi Life
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5583
-
-#EXTINF:-1,[3] RO | Digi Sport 1
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5584
-
-#EXTINF:-1,[3] RO | Digi Sport 2
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5585
-
-#EXTINF:-1,[3] RO | Digi Sport 3
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5586
-
-#EXTINF:-1,[3] RO | Digi Sport 4
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5587
-
-#EXTINF:-1,[3] RO | Digi24
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5589
-
-#EXTINF:-1,[3] RO | HBO 2
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5600
-
-#EXTINF:-1,[3] RO | HBO 3
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5601
-
-#EXTINF:-1,[3] RO | HBO Romania
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5602
-
-#EXTINF:-1,[3] RO | Look Plus
-http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5608
-
-#EXTINF:-1,[4] RO | CINEMAX 2
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5578
-
-#EXTINF:-1,[4] RO | DIGI 24
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5579
-
-#EXTINF:-1,[4] RO | DIGI 24 CRAIOVA
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5580
-
-#EXTINF:-1,[4] RO | DIGI ANIMAL WORLD
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5581
-
-#EXTINF:-1,[4] RO | DIGI FILM
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5582
-
-#EXTINF:-1,[4] RO | DIGI WORLD
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5588
-
-#EXTINF:-1,[4] RO | Digi Life
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5583
-
-#EXTINF:-1,[4] RO | Digi Sport 1
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5584
-
-#EXTINF:-1,[4] RO | Digi Sport 2
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5585
-
-#EXTINF:-1,[4] RO | Digi Sport 3
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5586
-
-#EXTINF:-1,[4] RO | Digi Sport 4
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5587
-
-#EXTINF:-1,[4] RO | Digi24
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5589
-
-#EXTINF:-1,[4] RO | HBO 2
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5600
-
-#EXTINF:-1,[4] RO | HBO 3
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5601
-
-#EXTINF:-1,[4] RO | HBO Romania
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5602
-
-#EXTINF:-1,[4] RO | Look Plus
-http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5608
-
-#EXTINF:-1,[5] RO | CINEMAX 2
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5578
-
-#EXTINF:-1,[5] RO | DIGI 24
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5579
-
-#EXTINF:-1,[5] RO | DIGI 24 CRAIOVA
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5580
-
-#EXTINF:-1,[5] RO | DIGI ANIMAL WORLD
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5581
-
-#EXTINF:-1,[5] RO | DIGI FILM
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5582
-
-#EXTINF:-1,[5] RO | DIGI WORLD
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5588
-
-#EXTINF:-1,[5] RO | Digi Life
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5583
-
-#EXTINF:-1,[5] RO | Digi Sport 1
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5584
-
-#EXTINF:-1,[5] RO | Digi Sport 2
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5585
-
-#EXTINF:-1,[5] RO | Digi Sport 3
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5586
-
-#EXTINF:-1,[5] RO | Digi Sport 4
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5587
-
-#EXTINF:-1,[5] RO | Digi24
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5589
-
-#EXTINF:-1,[5] RO | HBO 2
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5600
-
-#EXTINF:-1,[5] RO | HBO 3
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5601
-
-#EXTINF:-1,[5] RO | HBO Romania
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5602
-
-#EXTINF:-1,[5] RO | Look Plus
-http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5608
-
-#EXTINF:-1,[6] RO | CINEMAX 2
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5578
 
-#EXTINF:-1,[6] RO | DIGI 24
+#EXTINF:-1,[1] RO | DIGI 24
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5579
 
-#EXTINF:-1,[6] RO | DIGI 24 CRAIOVA
+#EXTINF:-1,[1] RO | DIGI 24 CRAIOVA
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5580
 
-#EXTINF:-1,[6] RO | DIGI ANIMAL WORLD
+#EXTINF:-1,[1] RO | DIGI ANIMAL WORLD
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5581
 
-#EXTINF:-1,[6] RO | DIGI FILM
+#EXTINF:-1,[1] RO | DIGI FILM
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5582
 
-#EXTINF:-1,[6] RO | DIGI WORLD
+#EXTINF:-1,[1] RO | DIGI WORLD
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5588
 
-#EXTINF:-1,[6] RO | Digi Life
+#EXTINF:-1,[1] RO | Digi Life
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5583
 
-#EXTINF:-1,[6] RO | Digi Sport 1
+#EXTINF:-1,[1] RO | Digi Sport 1
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5584
 
-#EXTINF:-1,[6] RO | Digi Sport 2
+#EXTINF:-1,[1] RO | Digi Sport 2
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5585
 
-#EXTINF:-1,[6] RO | Digi Sport 3
+#EXTINF:-1,[1] RO | Digi Sport 3
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5586
 
-#EXTINF:-1,[6] RO | Digi Sport 4
+#EXTINF:-1,[1] RO | Digi Sport 4
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5587
 
-#EXTINF:-1,[6] RO | Digi24
+#EXTINF:-1,[1] RO | Digi24
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5589
 
-#EXTINF:-1,[6] RO | HBO 2
+#EXTINF:-1,[1] RO | HBO 2
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5600
 
-#EXTINF:-1,[6] RO | HBO 3
+#EXTINF:-1,[1] RO | HBO 3
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5601
 
-#EXTINF:-1,[6] RO | HBO Romania
+#EXTINF:-1,[1] RO | HBO Romania
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5602
 
-#EXTINF:-1,[6] RO | Look Plus
+#EXTINF:-1,[1] RO | Look Plus
 http://flytoronto.xyz:8080/kpogAF0jms/eToZki6EhA/5608
 
-#EXTINF:-1,[7] RO | CINEMAX 2
+#EXTINF:-1,[2] RO | CINEMAX 2
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5578
+
+#EXTINF:-1,[2] RO | DIGI 24
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5579
+
+#EXTINF:-1,[2] RO | DIGI 24 CRAIOVA
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5580
+
+#EXTINF:-1,[2] RO | DIGI ANIMAL WORLD
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5581
+
+#EXTINF:-1,[2] RO | DIGI FILM
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5582
+
+#EXTINF:-1,[2] RO | DIGI WORLD
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5588
+
+#EXTINF:-1,[2] RO | Digi Life
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5583
+
+#EXTINF:-1,[2] RO | Digi Sport 1
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5584
+
+#EXTINF:-1,[2] RO | Digi Sport 2
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5585
+
+#EXTINF:-1,[2] RO | Digi Sport 3
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5586
+
+#EXTINF:-1,[2] RO | Digi Sport 4
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5587
+
+#EXTINF:-1,[2] RO | Digi24
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5589
+
+#EXTINF:-1,[2] RO | HBO 2
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5600
+
+#EXTINF:-1,[2] RO | HBO 3
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5601
+
+#EXTINF:-1,[2] RO | HBO Romania
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5602
+
+#EXTINF:-1,[2] RO | Look Plus
+http://flytoronto.xyz:8080/BON9lWzHZh/LymSkmltpf/5608
+
+#EXTINF:-1,[3] RO | CINEMAX 2
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5578
+
+#EXTINF:-1,[3] RO | DIGI 24
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5579
+
+#EXTINF:-1,[3] RO | DIGI 24 CRAIOVA
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5580
+
+#EXTINF:-1,[3] RO | DIGI ANIMAL WORLD
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5581
+
+#EXTINF:-1,[3] RO | DIGI FILM
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5582
+
+#EXTINF:-1,[3] RO | DIGI WORLD
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5588
+
+#EXTINF:-1,[3] RO | Digi Life
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5583
+
+#EXTINF:-1,[3] RO | Digi Sport 1
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5584
+
+#EXTINF:-1,[3] RO | Digi Sport 2
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5585
+
+#EXTINF:-1,[3] RO | Digi Sport 3
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5586
+
+#EXTINF:-1,[3] RO | Digi Sport 4
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5587
+
+#EXTINF:-1,[3] RO | Digi24
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5589
+
+#EXTINF:-1,[3] RO | HBO 2
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5600
+
+#EXTINF:-1,[3] RO | HBO 3
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5601
+
+#EXTINF:-1,[3] RO | HBO Romania
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5602
+
+#EXTINF:-1,[3] RO | Look Plus
+http://flytoronto.xyz:8080/NwenXZnpo6/fTb3RVi16N/5608
+
+#EXTINF:-1,[4] RO | CINEMAX 2
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5578
 
-#EXTINF:-1,[7] RO | DIGI 24
+#EXTINF:-1,[4] RO | DIGI 24
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5579
 
-#EXTINF:-1,[7] RO | DIGI 24 CRAIOVA
+#EXTINF:-1,[4] RO | DIGI 24 CRAIOVA
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5580
 
-#EXTINF:-1,[7] RO | DIGI ANIMAL WORLD
+#EXTINF:-1,[4] RO | DIGI ANIMAL WORLD
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5581
 
-#EXTINF:-1,[7] RO | DIGI FILM
+#EXTINF:-1,[4] RO | DIGI FILM
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5582
 
-#EXTINF:-1,[7] RO | DIGI WORLD
+#EXTINF:-1,[4] RO | DIGI WORLD
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5588
 
-#EXTINF:-1,[7] RO | Digi Life
+#EXTINF:-1,[4] RO | Digi Life
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5583
 
-#EXTINF:-1,[7] RO | Digi Sport 1
+#EXTINF:-1,[4] RO | Digi Sport 1
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5584
 
-#EXTINF:-1,[7] RO | Digi Sport 2
+#EXTINF:-1,[4] RO | Digi Sport 2
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5585
 
-#EXTINF:-1,[7] RO | Digi Sport 3
+#EXTINF:-1,[4] RO | Digi Sport 3
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5586
 
-#EXTINF:-1,[7] RO | Digi Sport 4
+#EXTINF:-1,[4] RO | Digi Sport 4
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5587
 
-#EXTINF:-1,[7] RO | Digi24
+#EXTINF:-1,[4] RO | Digi24
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5589
 
-#EXTINF:-1,[7] RO | HBO 2
+#EXTINF:-1,[4] RO | HBO 2
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5600
 
-#EXTINF:-1,[7] RO | HBO 3
+#EXTINF:-1,[4] RO | HBO 3
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5601
 
-#EXTINF:-1,[7] RO | HBO Romania
+#EXTINF:-1,[4] RO | HBO Romania
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5602
 
-#EXTINF:-1,[7] RO | Look Plus
+#EXTINF:-1,[4] RO | Look Plus
 http://flytoronto.xyz:8080/prS3R7k0LW/4fa5JbBSq8/5608
+
+#EXTINF:-1,[5] RO | CINEMAX 2
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5578
+
+#EXTINF:-1,[5] RO | DIGI 24
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5579
+
+#EXTINF:-1,[5] RO | DIGI 24 CRAIOVA
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5580
+
+#EXTINF:-1,[5] RO | DIGI ANIMAL WORLD
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5581
+
+#EXTINF:-1,[5] RO | DIGI FILM
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5582
+
+#EXTINF:-1,[5] RO | DIGI WORLD
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5588
+
+#EXTINF:-1,[5] RO | Digi Life
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5583
+
+#EXTINF:-1,[5] RO | Digi Sport 1
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5584
+
+#EXTINF:-1,[5] RO | Digi Sport 2
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5585
+
+#EXTINF:-1,[5] RO | Digi Sport 3
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5586
+
+#EXTINF:-1,[5] RO | Digi Sport 4
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5587
+
+#EXTINF:-1,[5] RO | Digi24
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5589
+
+#EXTINF:-1,[5] RO | HBO 2
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5600
+
+#EXTINF:-1,[5] RO | HBO 3
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5601
+
+#EXTINF:-1,[5] RO | HBO Romania
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5602
+
+#EXTINF:-1,[5] RO | Look Plus
+http://flytoronto.xyz:8080/Um9P54tBHM/6tYFeXypBW/5608
+
+#EXTINF:-1,[6] RO | CINEMAX 2
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5578
+
+#EXTINF:-1,[6] RO | DIGI 24
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5579
+
+#EXTINF:-1,[6] RO | DIGI 24 CRAIOVA
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5580
+
+#EXTINF:-1,[6] RO | DIGI ANIMAL WORLD
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5581
+
+#EXTINF:-1,[6] RO | DIGI FILM
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5582
+
+#EXTINF:-1,[6] RO | DIGI WORLD
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5588
+
+#EXTINF:-1,[6] RO | Digi Life
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5583
+
+#EXTINF:-1,[6] RO | Digi Sport 1
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5584
+
+#EXTINF:-1,[6] RO | Digi Sport 2
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5585
+
+#EXTINF:-1,[6] RO | Digi Sport 3
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5586
+
+#EXTINF:-1,[6] RO | Digi Sport 4
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5587
+
+#EXTINF:-1,[6] RO | Digi24
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5589
+
+#EXTINF:-1,[6] RO | HBO 2
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5600
+
+#EXTINF:-1,[6] RO | HBO 3
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5601
+
+#EXTINF:-1,[6] RO | HBO Romania
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5602
+
+#EXTINF:-1,[6] RO | Look Plus
+http://flytoronto.xyz:8080/o2RySPWOx7/GqQborzfFe/5608
+
+#EXTINF:-1,[7] RO | CINEMAX 2
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5578
+
+#EXTINF:-1,[7] RO | DIGI 24
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5579
+
+#EXTINF:-1,[7] RO | DIGI 24 CRAIOVA
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5580
+
+#EXTINF:-1,[7] RO | DIGI ANIMAL WORLD
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5581
+
+#EXTINF:-1,[7] RO | DIGI FILM
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5582
+
+#EXTINF:-1,[7] RO | DIGI WORLD
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5588
+
+#EXTINF:-1,[7] RO | Digi Life
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5583
+
+#EXTINF:-1,[7] RO | Digi Sport 1
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5584
+
+#EXTINF:-1,[7] RO | Digi Sport 2
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5585
+
+#EXTINF:-1,[7] RO | Digi Sport 3
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5586
+
+#EXTINF:-1,[7] RO | Digi Sport 4
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5587
+
+#EXTINF:-1,[7] RO | Digi24
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5589
+
+#EXTINF:-1,[7] RO | HBO 2
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5600
+
+#EXTINF:-1,[7] RO | HBO 3
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5601
+
+#EXTINF:-1,[7] RO | HBO Romania
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5602
+
+#EXTINF:-1,[7] RO | Look Plus
+http://flytoronto.xyz:8080/nWJZokoVyQ/PSxEfGyyCV/5608
+
+#EXTINF:-1,[8] RO | CINEMAX 2
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5578
+
+#EXTINF:-1,[8] RO | DIGI 24
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5579
+
+#EXTINF:-1,[8] RO | DIGI 24 CRAIOVA
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5580
+
+#EXTINF:-1,[8] RO | DIGI ANIMAL WORLD
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5581
+
+#EXTINF:-1,[8] RO | DIGI FILM
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5582
+
+#EXTINF:-1,[8] RO | DIGI WORLD
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5588
+
+#EXTINF:-1,[8] RO | Digi Life
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5583
+
+#EXTINF:-1,[8] RO | Digi Sport 1
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5584
+
+#EXTINF:-1,[8] RO | Digi Sport 2
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5585
+
+#EXTINF:-1,[8] RO | Digi Sport 3
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5586
+
+#EXTINF:-1,[8] RO | Digi Sport 4
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5587
+
+#EXTINF:-1,[8] RO | Digi24
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5589
+
+#EXTINF:-1,[8] RO | HBO 2
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5600
+
+#EXTINF:-1,[8] RO | HBO 3
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5601
+
+#EXTINF:-1,[8] RO | HBO Romania
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5602
+
+#EXTINF:-1,[8] RO | Look Plus
+http://flytoronto.xyz:8080/LeFZuvP9Ve/XGXcg0ooCU/5608
+
+#EXTINF:-1,[9] RO | CINEMAX 2
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5578
+
+#EXTINF:-1,[9] RO | DIGI 24
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5579
+
+#EXTINF:-1,[9] RO | DIGI 24 CRAIOVA
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5580
+
+#EXTINF:-1,[9] RO | DIGI ANIMAL WORLD
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5581
+
+#EXTINF:-1,[9] RO | DIGI FILM
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5582
+
+#EXTINF:-1,[9] RO | DIGI WORLD
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5588
+
+#EXTINF:-1,[9] RO | Digi Life
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5583
+
+#EXTINF:-1,[9] RO | Digi Sport 1
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5584
+
+#EXTINF:-1,[9] RO | Digi Sport 2
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5585
+
+#EXTINF:-1,[9] RO | Digi Sport 3
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5586
+
+#EXTINF:-1,[9] RO | Digi Sport 4
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5587
+
+#EXTINF:-1,[9] RO | Digi24
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5589
+
+#EXTINF:-1,[9] RO | HBO 2
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5600
+
+#EXTINF:-1,[9] RO | HBO 3
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5601
+
+#EXTINF:-1,[9] RO | HBO Romania
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5602
+
+#EXTINF:-1,[9] RO | Look Plus
+http://flytoronto.xyz:8080/PH7vdZjAi9/Kq2BP4Ffp4/5608
