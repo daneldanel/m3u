@@ -1,103 +1,223 @@
 #EXTM3U
 
-#EXTINF:-1,[01]  Prima Sport 2 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5314
+#EXTINF:-1,[01] |RO| CINEMARATON
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204298
 
-#EXTINF:-1,[01] Cinemaraton VIP RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/688446
+#EXTINF:-1,[01] |RO| CINEMAX
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204307
 
-#EXTINF:-1,[01] Cinemax 2 HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5268
+#EXTINF:-1,[01] |RO| CINEMAX 2
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204308
 
-#EXTINF:-1,[01] Cinemax FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5269
+#EXTINF:-1,[01] |RO| DOCUBOX
+#EXTGRP:docs
+http://txm.flysat.live/152018884933620/152021106724749/204332
 
-#EXTINF:-1,[01] DIGI 24 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/15000
+#EXTINF:-1,[01] |RO| FILM NOW
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204303
 
-#EXTINF:-1,[01] DIGI Animal World HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14999
+#EXTINF:-1,[01] |RO| HBO 3
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204349
 
-#EXTINF:-1,[01] DIGI Life HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14997
+#EXTINF:-1,[01] |RO| HBO 3 RO
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204350
 
-#EXTINF:-1,[01] DIGI Sport 1 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/149962
+#EXTINF:-1,[01] |RO| HBO HD RO
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204352
 
-#EXTINF:-1,[01] DIGI Sport 2 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14995
+#EXTINF:-1,[01] |RO| HBO Romania
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204353
 
-#EXTINF:-1,[01] DIGI Sport 3 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14994
+#EXTINF:-1,[01] |RO| HBO2
+#EXTGRP:movies
+http://txm.flysat.live/152018884933620/152021106724749/204351
 
-#EXTINF:-1,[01] DIGI Sport 3 HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5319
+#EXTINF:-1,[01] |RO| LOOK PLUS HD
+http://txm.flysat.live/152018884933620/152021106724749/204344
 
-#EXTINF:-1,[01] DIGI World HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14993
+#EXTINF:-1,[01] |RO| LOOK SPORT
+#EXTGRP:sports
+http://txm.flysat.live/152018884933620/152021106724749/204250
 
-#EXTINF:-1,[01] Digi 24 HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/16223
+#EXTINF:-1,[01] |RO| LOOK SPORT HD
+#EXTGRP:sports
+http://txm.flysat.live/152018884933620/152021106724749/204249
 
-#EXTINF:-1,[01] Digi 24 RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5298
+#EXTINF:-1,[01] |RO| LOOKPLUS
+http://txm.flysat.live/152018884933620/152021106724749/204343
 
-#EXTINF:-1,[01] Digi Animal World RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5290
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 1
+#EXTGRP:sports
+http://txm.flysat.live/152018884933620/152021106724749/204248
 
-#EXTINF:-1,[01] Digi Life RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5326
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 2
+#EXTGRP:sports
+http://txm.flysat.live/152018884933620/152021106724749/204247
 
-#EXTINF:-1,[01] Digi Sport 1 RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5321
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 3
+#EXTGRP:sports
+http://txm.flysat.live/152018884933620/152021106724749/204246
 
-#EXTINF:-1,[01] Digi Sport 2 RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5320
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 4
+#EXTGRP:sports
+http://txm.flysat.live/152018884933620/152021106724749/204245
 
-#EXTINF:-1,[01] Digi Sport 4 RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5318
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 5
+#EXTGRP:sports
+http://txm.flysat.live/152018884933620/152021106724749/204244
 
-#EXTINF:-1,[01] Digi World RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5324
+#EXTINF:-1,[02] |RO| CINEMARATON
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204298
 
-#EXTINF:-1,[01] DocuBox VIP RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/688452
+#EXTINF:-1,[02] |RO| CINEMAX
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204307
 
-#EXTINF:-1,[01] Film Now RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5325
+#EXTINF:-1,[02] |RO| CINEMAX 2
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204308
 
-#EXTINF:-1,[01] Film Now [B] RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14998
+#EXTINF:-1,[02] |RO| DOCUBOX
+#EXTGRP:docs
+http://txm.flysat.live/152087208243161/152003418536112/204332
 
-#EXTINF:-1,[01] HBO 2 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14986
+#EXTINF:-1,[02] |RO| FILM NOW
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204303
 
-#EXTINF:-1,[01] HBO 2 HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5277
+#EXTINF:-1,[02] |RO| HBO 3
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204349
 
-#EXTINF:-1,[01] HBO 3 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/14988
+#EXTINF:-1,[02] |RO| HBO 3 RO
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204350
 
-#EXTINF:-1,[01] HBO 3 RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5276
+#EXTINF:-1,[02] |RO| HBO HD RO
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204352
 
-#EXTINF:-1,[01] HBO HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5278
+#EXTINF:-1,[02] |RO| HBO Romania
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204353
 
-#EXTINF:-1,[01] Orange Sport 1 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/53855
+#EXTINF:-1,[02] |RO| HBO2
+#EXTGRP:movies
+http://txm.flysat.live/152087208243161/152003418536112/204351
 
-#EXTINF:-1,[01] Orange Sport 1 HD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/128252
+#EXTINF:-1,[02] |RO| LOOK PLUS HD
+http://txm.flysat.live/152087208243161/152003418536112/204344
 
-#EXTINF:-1,[01] Orange Sport 2 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/12920
+#EXTINF:-1,[02] |RO| LOOK SPORT
+#EXTGRP:sports
+http://txm.flysat.live/152087208243161/152003418536112/204250
 
-#EXTINF:-1,[01] Orange Sport 3 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/12979
+#EXTINF:-1,[02] |RO| LOOK SPORT HD
+#EXTGRP:sports
+http://txm.flysat.live/152087208243161/152003418536112/204249
 
-#EXTINF:-1,[01] Orange Sport 4 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/12042
+#EXTINF:-1,[02] |RO| LOOKPLUS
+http://txm.flysat.live/152087208243161/152003418536112/204343
 
-#EXTINF:-1,[01] Prima Sport 1 FHD RO
-http://satelliteiptv.xyz:8080/u6b2460ue/2jba011k3/5313
+#EXTINF:-1,[02] |RO| TELEKOM SPORT 1
+#EXTGRP:sports
+http://txm.flysat.live/152087208243161/152003418536112/204248
+
+#EXTINF:-1,[02] |RO| TELEKOM SPORT 2
+#EXTGRP:sports
+http://txm.flysat.live/152087208243161/152003418536112/204247
+
+#EXTINF:-1,[02] |RO| TELEKOM SPORT 3
+#EXTGRP:sports
+http://txm.flysat.live/152087208243161/152003418536112/204246
+
+#EXTINF:-1,[02] |RO| TELEKOM SPORT 4
+#EXTGRP:sports
+http://txm.flysat.live/152087208243161/152003418536112/204245
+
+#EXTINF:-1,[02] |RO| TELEKOM SPORT 5
+#EXTGRP:sports
+http://txm.flysat.live/152087208243161/152003418536112/204244
+
+#EXTINF:-1,[03] |RO| CINEMARATON
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204298
+
+#EXTINF:-1,[03] |RO| CINEMAX
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204307
+
+#EXTINF:-1,[03] |RO| CINEMAX 2
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204308
+
+#EXTINF:-1,[03] |RO| DOCUBOX
+#EXTGRP:docs
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204332
+
+#EXTINF:-1,[03] |RO| FILM NOW
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204303
+
+#EXTINF:-1,[03] |RO| HBO 3
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204349
+
+#EXTINF:-1,[03] |RO| HBO 3 RO
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204350
+
+#EXTINF:-1,[03] |RO| HBO HD RO
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204352
+
+#EXTINF:-1,[03] |RO| HBO Romania
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204353
+
+#EXTINF:-1,[03] |RO| HBO2
+#EXTGRP:movies
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204351
+
+#EXTINF:-1,[03] |RO| LOOK PLUS HD
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204344
+
+#EXTINF:-1,[03] |RO| LOOK SPORT
+#EXTGRP:sports
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204250
+
+#EXTINF:-1,[03] |RO| LOOK SPORT HD
+#EXTGRP:sports
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204249
+
+#EXTINF:-1,[03] |RO| LOOKPLUS
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204343
+
+#EXTINF:-1,[03] |RO| TELEKOM SPORT 1
+#EXTGRP:sports
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204248
+
+#EXTINF:-1,[03] |RO| TELEKOM SPORT 2
+#EXTGRP:sports
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204247
+
+#EXTINF:-1,[03] |RO| TELEKOM SPORT 3
+#EXTGRP:sports
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204246
+
+#EXTINF:-1,[03] |RO| TELEKOM SPORT 4
+#EXTGRP:sports
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204245
+
+#EXTINF:-1,[03] |RO| TELEKOM SPORT 5
+#EXTGRP:sports
+http://txm.flysat.live/1520097764413821/hq8HftRPLC/204244

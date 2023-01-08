@@ -1,39 +1,50 @@
 #EXTM3U
 
 #EXTINF:-1,[01]  Prima Sport 2 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5314
 
 #EXTINF:-1,[01] Cinemaraton VIP RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/688446
 
 #EXTINF:-1,[01] Cinemax 2 HD RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5268
 
 #EXTINF:-1,[01] Cinemax FHD RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5269
 
 #EXTINF:-1,[01] DIGI 24 FHD RO
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/15000
 
 #EXTINF:-1,[01] DIGI Animal World HD RO
+#EXTGRP:docs
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14999
 
 #EXTINF:-1,[01] DIGI Life HD RO
+#EXTGRP:docs
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14997
 
 #EXTINF:-1,[01] DIGI Sport 1 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/149962
 
 #EXTINF:-1,[01] DIGI Sport 2 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14995
 
 #EXTINF:-1,[01] DIGI Sport 3 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14994
 
 #EXTINF:-1,[01] DIGI Sport 3 HD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5319
 
 #EXTINF:-1,[01] DIGI World HD RO
+#EXTGRP:docs
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14993
 
 #EXTINF:-1,[01] Digi 24 HD RO
@@ -43,61 +54,81 @@ http://flix12.site:8080/kj24jlmlef/vla6fabfsl/16223
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5298
 
 #EXTINF:-1,[01] Digi Animal World RO
+#EXTGRP:docs
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5290
 
 #EXTINF:-1,[01] Digi Life RO
+#EXTGRP:docs
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5326
 
 #EXTINF:-1,[01] Digi Sport 1 RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5321
 
 #EXTINF:-1,[01] Digi Sport 2 RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5320
 
 #EXTINF:-1,[01] Digi Sport 4 RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5318
 
 #EXTINF:-1,[01] Digi World RO
+#EXTGRP:docs
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5324
 
 #EXTINF:-1,[01] DocuBox VIP RO
+#EXTGRP:docs
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/688452
 
 #EXTINF:-1,[01] Film Now RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5325
 
 #EXTINF:-1,[01] Film Now [B] RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14998
 
 #EXTINF:-1,[01] HBO 2 FHD RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14986
 
 #EXTINF:-1,[01] HBO 2 HD RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5277
 
 #EXTINF:-1,[01] HBO 3 FHD RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/14988
 
 #EXTINF:-1,[01] HBO 3 RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5276
 
 #EXTINF:-1,[01] HBO HD RO
+#EXTGRP:movies
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5278
 
 #EXTINF:-1,[01] Orange Sport 1 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/53855
 
 #EXTINF:-1,[01] Orange Sport 1 HD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/128252
 
 #EXTINF:-1,[01] Orange Sport 2 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/12920
 
 #EXTINF:-1,[01] Orange Sport 3 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/12979
 
 #EXTINF:-1,[01] Orange Sport 4 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/12042
 
 #EXTINF:-1,[01] Prima Sport 1 FHD RO
+#EXTGRP:sports
 http://flix12.site:8080/kj24jlmlef/vla6fabfsl/5313

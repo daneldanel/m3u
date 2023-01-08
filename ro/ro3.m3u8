@@ -1,169 +1,221 @@
 #EXTM3U
 
 #EXTINF:-1,[01] RO: BBC EARTH
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228786
 
 #EXTINF:-1,[01] RO: CINEMARATON FHD
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228797
 
 #EXTINF:-1,[01] RO: CINETHRONIX
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228802
 
 #EXTINF:-1,[01] RO: COMEDY EST
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/219636
 
 #EXTINF:-1,[01] RO: Cinemax 1
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228801
 
 #EXTINF:-1,[01] RO: Cinemax 2
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228799
 
 #EXTINF:-1,[01] RO: DIGI 24
 http://ky-iptv.com/Nestor1234/Nestor1234/228813
 
 #EXTINF:-1,[01] RO: DIGI FILM
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228816
 
 #EXTINF:-1,[01] RO: DIGI LIFE
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228817
 
 #EXTINF:-1,[01] RO: DIGI SPORT 1
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228818
 
 #EXTINF:-1,[01] RO: DIGI SPORT 2
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228820
 
 #EXTINF:-1,[01] RO: DIGI SPORT 3
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228822
 
 #EXTINF:-1,[01] RO: DIGI SPORT 4
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228824
 
 #EXTINF:-1,[01] RO: DOCUBOX
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228834
 
 #EXTINF:-1,[01] RO: Digi ANIMAL WORLD
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228815
 
 #EXTINF:-1,[01] RO: Digi World
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228826
 
 #EXTINF:-1,[01] RO: FILM NOW
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228850
 
 #EXTINF:-1,[01] RO: HBO 2
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228864
 
 #EXTINF:-1,[01] RO: HBO 3
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/515954
 
 #EXTINF:-1,[01] RO: HBO Romania
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228869
 
 #EXTINF:-1,[01] RO: Look Plus
 http://ky-iptv.com/Nestor1234/Nestor1234/228888
 
 #EXTINF:-1,[01] RO: Prima SPORT
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228892
 
 #EXTINF:-1,[01] RO: Prima Sport 2
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228889
 
 #EXTINF:-1,[01] RO: Prima Sport 3
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228890
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 1
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228958
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 2
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228959
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 3
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228960
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 4
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228961
 
 #EXTINF:-1,[01] RO: BBC EARTH
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228786
 
 #EXTINF:-1,[01] RO: CINEMARATON FHD
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228797
 
 #EXTINF:-1,[01] RO: CINETHRONIX
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228802
 
 #EXTINF:-1,[01] RO: COMEDY EST
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/219636
 
 #EXTINF:-1,[01] RO: Cinemax 1
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228801
 
 #EXTINF:-1,[01] RO: Cinemax 2
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228799
 
 #EXTINF:-1,[01] RO: DIGI 24
 http://ky-iptv.com/Nestor1234/Nestor1234/228813
 
 #EXTINF:-1,[01] RO: DIGI FILM
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228816
 
 #EXTINF:-1,[01] RO: DIGI LIFE
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228817
 
 #EXTINF:-1,[01] RO: DIGI SPORT 1
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228818
 
 #EXTINF:-1,[01] RO: DIGI SPORT 2
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228820
 
 #EXTINF:-1,[01] RO: DIGI SPORT 3
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228822
 
 #EXTINF:-1,[01] RO: DIGI SPORT 4
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228824
 
 #EXTINF:-1,[01] RO: DOCUBOX
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228834
 
 #EXTINF:-1,[01] RO: Digi ANIMAL WORLD
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228815
 
 #EXTINF:-1,[01] RO: Digi World
+#EXTGRP:docs
 http://ky-iptv.com/Nestor1234/Nestor1234/228826
 
 #EXTINF:-1,[01] RO: FILM NOW
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228850
 
 #EXTINF:-1,[01] RO: HBO 2
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228864
 
 #EXTINF:-1,[01] RO: HBO 3
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/515954
 
 #EXTINF:-1,[01] RO: HBO Romania
+#EXTGRP:movies
 http://ky-iptv.com/Nestor1234/Nestor1234/228869
 
 #EXTINF:-1,[01] RO: Look Plus
 http://ky-iptv.com/Nestor1234/Nestor1234/228888
 
 #EXTINF:-1,[01] RO: Prima SPORT
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228892
 
 #EXTINF:-1,[01] RO: Prima Sport 2
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228889
 
 #EXTINF:-1,[01] RO: Prima Sport 3
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228890
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 1
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228958
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 2
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228959
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 3
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228960
 
 #EXTINF:-1,[01] RO: TELEKOM SPORT 4
+#EXTGRP:sports
 http://ky-iptv.com/Nestor1234/Nestor1234/228961
