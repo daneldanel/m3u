@@ -1,4 +1,273 @@
 #EXTM3U
 
-#EXTINF:-1,Arcadia Tv
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:-1,[01]  Prima Sport 2 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5314
+
+#EXTINF:-1,[01] Cinemaraton VIP RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/688446
+
+#EXTINF:-1,[01] Cinemax 2 HD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5268
+
+#EXTINF:-1,[01] Cinemax FHD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5269
+
+#EXTINF:-1,[01] DIGI 24 FHD RO
+#EXTGRP:unsorted
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/15000
+
+#EXTINF:-1,[01] DIGI Animal World HD RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14999
+
+#EXTINF:-1,[01] DIGI Life HD RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14997
+
+#EXTINF:-1,[01] DIGI Sport 1 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/149962
+
+#EXTINF:-1,[01] DIGI Sport 2 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14995
+
+#EXTINF:-1,[01] DIGI Sport 3 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14994
+
+#EXTINF:-1,[01] DIGI Sport 3 HD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5319
+
+#EXTINF:-1,[01] DIGI World HD RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14993
+
+#EXTINF:-1,[01] Digi 24 HD RO
+#EXTGRP:unsorted
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/16223
+
+#EXTINF:-1,[01] Digi 24 RO
+#EXTGRP:unsorted
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5298
+
+#EXTINF:-1,[01] Digi Animal World RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5290
+
+#EXTINF:-1,[01] Digi Life RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5326
+
+#EXTINF:-1,[01] Digi Sport 1 RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5321
+
+#EXTINF:-1,[01] Digi Sport 2 RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5320
+
+#EXTINF:-1,[01] Digi Sport 4 RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5318
+
+#EXTINF:-1,[01] Digi World RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5324
+
+#EXTINF:-1,[01] DocuBox VIP RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/688452
+
+#EXTINF:-1,[01] Film Now RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5325
+
+#EXTINF:-1,[01] Film Now [B] RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14998
+
+#EXTINF:-1,[01] HBO 2 FHD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14986
+
+#EXTINF:-1,[01] HBO 2 HD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5277
+
+#EXTINF:-1,[01] HBO 3 FHD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/14988
+
+#EXTINF:-1,[01] HBO 3 RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5276
+
+#EXTINF:-1,[01] HBO HD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5278
+
+#EXTINF:-1,[01] Orange Sport 1 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/53855
+
+#EXTINF:-1,[01] Orange Sport 1 HD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/128252
+
+#EXTINF:-1,[01] Orange Sport 2 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/12920
+
+#EXTINF:-1,[01] Orange Sport 3 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/12979
+
+#EXTINF:-1,[01] Orange Sport 4 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/12042
+
+#EXTINF:-1,[01] Prima Sport 1 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/eo2jzo6ay8/zntxx0type/5313
+
+#EXTINF:-1,[02]  Prima Sport 2 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5314
+
+#EXTINF:-1,[02] Cinemaraton VIP RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/688446
+
+#EXTINF:-1,[02] Cinemax 2 HD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5268
+
+#EXTINF:-1,[02] Cinemax FHD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5269
+
+#EXTINF:-1,[02] DIGI 24 FHD RO
+#EXTGRP:unsorted
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/15000
+
+#EXTINF:-1,[02] DIGI Animal World HD RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14999
+
+#EXTINF:-1,[02] DIGI Life HD RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14997
+
+#EXTINF:-1,[02] DIGI Sport 1 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/149962
+
+#EXTINF:-1,[02] DIGI Sport 2 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14995
+
+#EXTINF:-1,[02] DIGI Sport 3 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14994
+
+#EXTINF:-1,[02] DIGI Sport 3 HD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5319
+
+#EXTINF:-1,[02] DIGI World HD RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14993
+
+#EXTINF:-1,[02] Digi 24 HD RO
+#EXTGRP:unsorted
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/16223
+
+#EXTINF:-1,[02] Digi 24 RO
+#EXTGRP:unsorted
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5298
+
+#EXTINF:-1,[02] Digi Animal World RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5290
+
+#EXTINF:-1,[02] Digi Life RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5326
+
+#EXTINF:-1,[02] Digi Sport 1 RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5321
+
+#EXTINF:-1,[02] Digi Sport 2 RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5320
+
+#EXTINF:-1,[02] Digi Sport 4 RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5318
+
+#EXTINF:-1,[02] Digi World RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5324
+
+#EXTINF:-1,[02] DocuBox VIP RO
+#EXTGRP:docs
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/688452
+
+#EXTINF:-1,[02] Film Now RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5325
+
+#EXTINF:-1,[02] Film Now [B] RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14998
+
+#EXTINF:-1,[02] HBO 2 FHD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14986
+
+#EXTINF:-1,[02] HBO 2 HD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5277
+
+#EXTINF:-1,[02] HBO 3 FHD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/14988
+
+#EXTINF:-1,[02] HBO 3 RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5276
+
+#EXTINF:-1,[02] HBO HD RO
+#EXTGRP:movies
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5278
+
+#EXTINF:-1,[02] Orange Sport 1 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/53855
+
+#EXTINF:-1,[02] Orange Sport 1 HD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/128252
+
+#EXTINF:-1,[02] Orange Sport 2 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/12920
+
+#EXTINF:-1,[02] Orange Sport 3 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/12979
+
+#EXTINF:-1,[02] Orange Sport 4 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/12042
+
+#EXTINF:-1,[02] Prima Sport 1 FHD RO
+#EXTGRP:sports
+http://satelliteiptv.xyz:8080/zntckp2/cj4hscscyr/5313
