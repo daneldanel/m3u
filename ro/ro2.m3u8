@@ -1,137 +1,145 @@
 #EXTM3U
 
-#EXTINF:-1,[01]  Prima Sport 2 FHD RO
-#EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5314
-
-#EXTINF:-1,[01] Cinemaraton VIP RO
+#EXTINF:-1,[01] |RO| CINEMARATON
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/688446
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9992
 
-#EXTINF:-1,[01] Cinemax 2 HD RO
+#EXTINF:-1,[01] |RO| CINEMAX
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5268
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10001
 
-#EXTINF:-1,[01] Cinemax FHD RO
+#EXTINF:-1,[01] |RO| CINEMAX 2
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5269
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10002
 
-#EXTINF:-1,[01] DIGI 24 FHD RO
+#EXTINF:-1,[01] |RO| DIGI 24 HD
 #EXTGRP:unsorted
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/15000
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10055
 
-#EXTINF:-1,[01] DIGI Animal World HD RO
-#EXTGRP:docs
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14999
-
-#EXTINF:-1,[01] DIGI Life HD RO
-#EXTGRP:docs
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14997
-
-#EXTINF:-1,[01] DIGI Sport 1 FHD RO
-#EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/149962
-
-#EXTINF:-1,[01] DIGI Sport 2 FHD RO
-#EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14995
-
-#EXTINF:-1,[01] DIGI Sport 3 FHD RO
-#EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14994
-
-#EXTINF:-1,[01] DIGI Sport 3 HD RO
-#EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5319
-
-#EXTINF:-1,[01] DIGI World HD RO
-#EXTGRP:docs
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14993
-
-#EXTINF:-1,[01] Digi 24 HD RO
+#EXTINF:-1,[01] |RO| DIGI 8K
 #EXTGRP:unsorted
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/16223
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/411240
 
-#EXTINF:-1,[01] Digi 24 RO
-#EXTGRP:unsorted
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5298
-
-#EXTINF:-1,[01] Digi Animal World RO
+#EXTINF:-1,[01] |RO| DIGI ANIMAL WORLD
 #EXTGRP:docs
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5290
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9975
 
-#EXTINF:-1,[01] Digi Life RO
+#EXTINF:-1,[01] |RO| DIGI FILM
+#EXTGRP:movies
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10056
+
+#EXTINF:-1,[01] |RO| DIGI LIFE
 #EXTGRP:docs
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5326
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10057
 
-#EXTINF:-1,[01] Digi Sport 1 RO
+#EXTINF:-1,[01] |RO| DIGI SPORT 1
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5321
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9956
 
-#EXTINF:-1,[01] Digi Sport 2 RO
+#EXTINF:-1,[01] |RO| DIGI SPORT 1 HD RO
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5320
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9957
 
-#EXTINF:-1,[01] Digi Sport 4 RO
+#EXTINF:-1,[01] |RO| DIGI SPORT 2
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5318
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9954
 
-#EXTINF:-1,[01] Digi World RO
+#EXTINF:-1,[01] |RO| DIGI SPORT 2 HD RO
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9955
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 3
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9953
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 4
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9952
+
+#EXTINF:-1,[01] |RO| DIGI WORLD HD
 #EXTGRP:docs
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5324
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10058
 
-#EXTINF:-1,[01] DocuBox VIP RO
+#EXTINF:-1,[01] |RO| DOCUBOX
 #EXTGRP:docs
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/688452
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10026
 
-#EXTINF:-1,[01] Film Now RO
+#EXTINF:-1,[01] |RO| FILM NOW
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5325
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9997
 
-#EXTINF:-1,[01] Film Now [B] RO
+#EXTINF:-1,[01] |RO| HBO 3
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14998
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10043
 
-#EXTINF:-1,[01] HBO 2 FHD RO
+#EXTINF:-1,[01] |RO| HBO 3 RO
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14986
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10044
 
-#EXTINF:-1,[01] HBO 2 HD RO
+#EXTINF:-1,[01] |RO| HBO HD RO
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5277
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10046
 
-#EXTINF:-1,[01] HBO 3 FHD RO
+#EXTINF:-1,[01] |RO| HBO Romania
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/14988
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10047
 
-#EXTINF:-1,[01] HBO 3 RO
+#EXTINF:-1,[01] |RO| HBO2
 #EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5276
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10045
 
-#EXTINF:-1,[01] HBO HD RO
-#EXTGRP:movies
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5278
-
-#EXTINF:-1,[01] Orange Sport 1 FHD RO
+#EXTINF:-1,[01] |RO| LOOK PLUS
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/53855
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10037
 
-#EXTINF:-1,[01] Orange Sport 1 HD RO
+#EXTINF:-1,[01] |RO| LOOK SPORT
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/128252
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9944
 
-#EXTINF:-1,[01] Orange Sport 2 FHD RO
+#EXTINF:-1,[01] |RO| LOOK SPORT 2 HD
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/12920
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/109437
 
-#EXTINF:-1,[01] Orange Sport 3 FHD RO
+#EXTINF:-1,[01] |RO| LOOK SPORT 3 HD
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/12979
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/110500
 
-#EXTINF:-1,[01] Orange Sport 4 FHD RO
+#EXTINF:-1,[01] |RO| LOOK SPORT HD
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/12042
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9943
 
-#EXTINF:-1,[01] Prima Sport 1 FHD RO
+#EXTINF:-1,[01] |RO| POP HBO TV SHOWS
+#EXTGRP:movies
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/483329
+
+#EXTINF:-1,[01] |RO| Prima Sport 1 HD
 #EXTGRP:sports
-http://mytv.fun:8080/u05jz30f7m/1uj4lumptb/5313
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457812
+
+#EXTINF:-1,[01] |RO| Prima Sport 2 HD
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457813
+
+#EXTINF:-1,[01] |RO| Prima Sport 3 HD
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457814
+
+#EXTINF:-1,[01] |RO| Prima Sport 4 HD
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457815
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 1
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9942
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 2
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9941
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 3
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9940
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 4
+#EXTGRP:sports
+http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9939

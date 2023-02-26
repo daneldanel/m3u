@@ -1,4 +1,145 @@
 #EXTM3U
 
-#EXTINF:-1,Arcadia Tv
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:-1,[01] |RO| CINEMARATON
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9992
+
+#EXTINF:-1,[01] |RO| CINEMAX
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10001
+
+#EXTINF:-1,[01] |RO| CINEMAX 2
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10002
+
+#EXTINF:-1,[01] |RO| DIGI 24 HD
+#EXTGRP:unsorted
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10055
+
+#EXTINF:-1,[01] |RO| DIGI 8K
+#EXTGRP:unsorted
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/411240
+
+#EXTINF:-1,[01] |RO| DIGI ANIMAL WORLD
+#EXTGRP:docs
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9975
+
+#EXTINF:-1,[01] |RO| DIGI FILM
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10056
+
+#EXTINF:-1,[01] |RO| DIGI LIFE
+#EXTGRP:docs
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10057
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 1
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9956
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 1 HD RO
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9957
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 2
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9954
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 2 HD RO
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9955
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 3
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9953
+
+#EXTINF:-1,[01] |RO| DIGI SPORT 4
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9952
+
+#EXTINF:-1,[01] |RO| DIGI WORLD HD
+#EXTGRP:docs
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10058
+
+#EXTINF:-1,[01] |RO| DOCUBOX
+#EXTGRP:docs
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10026
+
+#EXTINF:-1,[01] |RO| FILM NOW
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9997
+
+#EXTINF:-1,[01] |RO| HBO 3
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10043
+
+#EXTINF:-1,[01] |RO| HBO 3 RO
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10044
+
+#EXTINF:-1,[01] |RO| HBO HD RO
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10046
+
+#EXTINF:-1,[01] |RO| HBO Romania
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10047
+
+#EXTINF:-1,[01] |RO| HBO2
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10045
+
+#EXTINF:-1,[01] |RO| LOOK PLUS
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/10037
+
+#EXTINF:-1,[01] |RO| LOOK SPORT
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9944
+
+#EXTINF:-1,[01] |RO| LOOK SPORT 2 HD
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/109437
+
+#EXTINF:-1,[01] |RO| LOOK SPORT 3 HD
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/110500
+
+#EXTINF:-1,[01] |RO| LOOK SPORT HD
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9943
+
+#EXTINF:-1,[01] |RO| POP HBO TV SHOWS
+#EXTGRP:movies
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/483329
+
+#EXTINF:-1,[01] |RO| Prima Sport 1 HD
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/457812
+
+#EXTINF:-1,[01] |RO| Prima Sport 2 HD
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/457813
+
+#EXTINF:-1,[01] |RO| Prima Sport 3 HD
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/457814
+
+#EXTINF:-1,[01] |RO| Prima Sport 4 HD
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/457815
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 1
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9942
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 2
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9941
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 3
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9940
+
+#EXTINF:-1,[01] |RO| TELEKOM SPORT 4
+#EXTGRP:sports
+http://sideriodomi.ottc.pro/egslkBZYGDqffnv/qsajbr05fO/9939
