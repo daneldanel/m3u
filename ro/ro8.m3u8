@@ -1,153 +1,137 @@
 #EXTM3U
 
-#EXTINF:-1,[01] |RO| CINEMARATON
-#EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204298
+#EXTINF:-1,[01]  Prima Sport 2 FHD RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5314
 
-#EXTINF:-1,[01] |RO| CINEMAX
+#EXTINF:-1,[01] Cinemaraton VIP RO
 #EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204307
+http://xtv.link/PaiMiguelPrimo/3twmaav019/688446
 
-#EXTINF:-1,[01] |RO| CINEMAX 2
+#EXTINF:-1,[01] Cinemax 2 HD RO
 #EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204308
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5268
 
-#EXTINF:-1,[01] |RO| DOCUBOX
+#EXTINF:-1,[01] Cinemax FHD RO
+#EXTGRP:movies
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5269
+
+#EXTINF:-1,[01] DIGI 24 FHD RO
+#EXTGRP:unsorted
+http://xtv.link/PaiMiguelPrimo/3twmaav019/15000
+
+#EXTINF:-1,[01] DIGI Animal World HD RO
 #EXTGRP:docs
-http://txm.flysat.live/152087208243161/152003418536112/204332
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14999
 
-#EXTINF:-1,[01] |RO| FILM NOW
-#EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204303
-
-#EXTINF:-1,[01] |RO| HBO 3
-#EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204349
-
-#EXTINF:-1,[01] |RO| HBO 3 RO
-#EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204350
-
-#EXTINF:-1,[01] |RO| HBO HD RO
-#EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204352
-
-#EXTINF:-1,[01] |RO| HBO Romania
-#EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204353
-
-#EXTINF:-1,[01] |RO| HBO2
-#EXTGRP:movies
-http://txm.flysat.live/152087208243161/152003418536112/204351
-
-#EXTINF:-1,[01] |RO| LOOK PLUS HD
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204344
-
-#EXTINF:-1,[01] |RO| LOOK SPORT
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204250
-
-#EXTINF:-1,[01] |RO| LOOK SPORT HD
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204249
-
-#EXTINF:-1,[01] |RO| LOOKPLUS
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204343
-
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 1
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204248
-
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 2
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204247
-
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 3
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204246
-
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 4
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204245
-
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 5
-#EXTGRP:sports
-http://txm.flysat.live/152087208243161/152003418536112/204244
-
-#EXTINF:-1,[02] |RO| CINEMARATON
-#EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204298
-
-#EXTINF:-1,[02] |RO| CINEMAX
-#EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204307
-
-#EXTINF:-1,[02] |RO| CINEMAX 2
-#EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204308
-
-#EXTINF:-1,[02] |RO| DOCUBOX
+#EXTINF:-1,[01] DIGI Life HD RO
 #EXTGRP:docs
-http://txm.flysat.live/152018884933620/152021106724749/204332
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14997
 
-#EXTINF:-1,[02] |RO| FILM NOW
+#EXTINF:-1,[01] DIGI Sport 1 FHD RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/149962
+
+#EXTINF:-1,[01] DIGI Sport 2 FHD RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14995
+
+#EXTINF:-1,[01] DIGI Sport 3 FHD RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14994
+
+#EXTINF:-1,[01] DIGI Sport 3 HD RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5319
+
+#EXTINF:-1,[01] DIGI World HD RO
+#EXTGRP:docs
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14993
+
+#EXTINF:-1,[01] Digi 24 HD RO
+#EXTGRP:unsorted
+http://xtv.link/PaiMiguelPrimo/3twmaav019/16223
+
+#EXTINF:-1,[01] Digi 24 RO
+#EXTGRP:unsorted
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5298
+
+#EXTINF:-1,[01] Digi Animal World RO
+#EXTGRP:docs
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5290
+
+#EXTINF:-1,[01] Digi Life RO
+#EXTGRP:docs
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5326
+
+#EXTINF:-1,[01] Digi Sport 1 RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5321
+
+#EXTINF:-1,[01] Digi Sport 2 RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5320
+
+#EXTINF:-1,[01] Digi Sport 4 RO
+#EXTGRP:sports
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5318
+
+#EXTINF:-1,[01] Digi World RO
+#EXTGRP:docs
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5324
+
+#EXTINF:-1,[01] DocuBox VIP RO
+#EXTGRP:docs
+http://xtv.link/PaiMiguelPrimo/3twmaav019/688452
+
+#EXTINF:-1,[01] Film Now RO
 #EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204303
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5325
 
-#EXTINF:-1,[02] |RO| HBO 3
+#EXTINF:-1,[01] Film Now [B] RO
 #EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204349
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14998
 
-#EXTINF:-1,[02] |RO| HBO 3 RO
+#EXTINF:-1,[01] HBO 2 FHD RO
 #EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204350
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14986
 
-#EXTINF:-1,[02] |RO| HBO HD RO
+#EXTINF:-1,[01] HBO 2 HD RO
 #EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204352
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5277
 
-#EXTINF:-1,[02] |RO| HBO Romania
+#EXTINF:-1,[01] HBO 3 FHD RO
 #EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204353
+http://xtv.link/PaiMiguelPrimo/3twmaav019/14988
 
-#EXTINF:-1,[02] |RO| HBO2
+#EXTINF:-1,[01] HBO 3 RO
 #EXTGRP:movies
-http://txm.flysat.live/152018884933620/152021106724749/204351
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5276
 
-#EXTINF:-1,[02] |RO| LOOK PLUS HD
-#EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204344
+#EXTINF:-1,[01] HBO HD RO
+#EXTGRP:movies
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5278
 
-#EXTINF:-1,[02] |RO| LOOK SPORT
+#EXTINF:-1,[01] Orange Sport 1 FHD RO
 #EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204250
+http://xtv.link/PaiMiguelPrimo/3twmaav019/53855
 
-#EXTINF:-1,[02] |RO| LOOK SPORT HD
+#EXTINF:-1,[01] Orange Sport 1 HD RO
 #EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204249
+http://xtv.link/PaiMiguelPrimo/3twmaav019/128252
 
-#EXTINF:-1,[02] |RO| LOOKPLUS
+#EXTINF:-1,[01] Orange Sport 2 FHD RO
 #EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204343
+http://xtv.link/PaiMiguelPrimo/3twmaav019/12920
 
-#EXTINF:-1,[02] |RO| TELEKOM SPORT 1
+#EXTINF:-1,[01] Orange Sport 3 FHD RO
 #EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204248
+http://xtv.link/PaiMiguelPrimo/3twmaav019/12979
 
-#EXTINF:-1,[02] |RO| TELEKOM SPORT 2
+#EXTINF:-1,[01] Orange Sport 4 FHD RO
 #EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204247
+http://xtv.link/PaiMiguelPrimo/3twmaav019/12042
 
-#EXTINF:-1,[02] |RO| TELEKOM SPORT 3
+#EXTINF:-1,[01] Prima Sport 1 FHD RO
 #EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204246
-
-#EXTINF:-1,[02] |RO| TELEKOM SPORT 4
-#EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204245
-
-#EXTINF:-1,[02] |RO| TELEKOM SPORT 5
-#EXTGRP:sports
-http://txm.flysat.live/152018884933620/152021106724749/204244
+http://xtv.link/PaiMiguelPrimo/3twmaav019/5313
