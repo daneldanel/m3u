@@ -1,217 +1,881 @@
 #EXTM3U
 
-#EXTINF:-1,[01] |RO| CINEMARATON
+#EXTINF:-1,[01] RO: Cinemaraton
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9992
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52429
 
-#EXTINF:-1,[01] |RO| CINEMAX
+#EXTINF:-1,[01] RO: Cinemax 1
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10001
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52430
 
-#EXTINF:-1,[01] |RO| CINEMAX 2
+#EXTINF:-1,[01] RO: Cinemax 1 FHD
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10002
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52539
 
-#EXTINF:-1,[01] |RO| DIGI 24 HD
+#EXTINF:-1,[01] RO: Cinemax 2
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52431
+
+#EXTINF:-1,[01] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52540
+
+#EXTINF:-1,[01] RO: Cinethronix
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52541
+
+#EXTINF:-1,[01] RO: DIGI Animal World
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52432
+
+#EXTINF:-1,[01] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52547
+
+#EXTINF:-1,[01] RO: DIGI Life
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52433
+
+#EXTINF:-1,[01] RO: DIGI Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52434
+
+#EXTINF:-1,[01] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52435
+
+#EXTINF:-1,[01] RO: DIGI Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52436
+
+#EXTINF:-1,[01] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52437
+
+#EXTINF:-1,[01] RO: DIGI Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52438
+
+#EXTINF:-1,[01] RO: DIGI World
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52439
+
+#EXTINF:-1,[01] RO: Digi 24
 #EXTGRP:unsorted
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10055
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52549
 
-#EXTINF:-1,[01] |RO| DIGI ANIMAL WORLD
+#EXTINF:-1,[01] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52550
+
+#EXTINF:-1,[01] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52551
+
+#EXTINF:-1,[01] RO: Digi Animal World FHD
 #EXTGRP:docs
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9975
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52552
 
-#EXTINF:-1,[01] |RO| DIGI FILM
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10056
-
-#EXTINF:-1,[01] |RO| DIGI LIFE
+#EXTINF:-1,[01] RO: Digi Life FHD
 #EXTGRP:docs
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10057
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52553
 
-#EXTINF:-1,[01] |RO| DIGI SPORT 1
+#EXTINF:-1,[01] RO: Digi Sport 3
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9956
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52442
 
-#EXTINF:-1,[01] |RO| DIGI SPORT 1 HD RO
+#EXTINF:-1,[01] RO: Digi Sport 3 HD
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9957
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52554
 
-#EXTINF:-1,[01] |RO| DIGI SPORT 2
+#EXTINF:-1,[01] RO: Digi Sport 4 HD
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9954
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52555
 
-#EXTINF:-1,[01] |RO| DIGI SPORT 2 HD RO
-#EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9955
-
-#EXTINF:-1,[01] |RO| DIGI SPORT 3
-#EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9953
-
-#EXTINF:-1,[01] |RO| DIGI SPORT 4
-#EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9952
-
-#EXTINF:-1,[01] |RO| DIGI WORLD HD
+#EXTINF:-1,[01] RO: Digi World FHD
 #EXTGRP:docs
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10058
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52556
 
-#EXTINF:-1,[01] |RO| DOCUBOX
+#EXTINF:-1,[01] RO: DocuBox
 #EXTGRP:docs
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10026
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52451
 
-#EXTINF:-1,[01] |RO| FILM NOW
+#EXTINF:-1,[01] RO: FILM NOW
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9997
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52459
 
-#EXTINF:-1,[01] |RO| HBO 3
+#EXTINF:-1,[01] RO: Film Now FHD
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10043
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52565
 
-#EXTINF:-1,[01] |RO| HBO 3 RO
+#EXTINF:-1,[01] RO: HBO
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10044
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52467
 
-#EXTINF:-1,[01] |RO| HBO HD RO
+#EXTINF:-1,[01] RO: HBO 2
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10046
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52471
 
-#EXTINF:-1,[01] |RO| HBO Romania
+#EXTINF:-1,[01] RO: HBO 2 HD
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10047
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52571
 
-#EXTINF:-1,[01] |RO| HBO2
+#EXTINF:-1,[01] RO: HBO 3
 #EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10045
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52468
 
-#EXTINF:-1,[01] |RO| LOOK PLUS
+#EXTINF:-1,[01] RO: HBO 3 HD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52469
+
+#EXTINF:-1,[01] RO: HBO HD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52470
+
+#EXTINF:-1,[01] RO: Look Plus
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/10037
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52481
 
-#EXTINF:-1,[01] |RO| LOOK SPORT
+#EXTINF:-1,[01] RO: Look Plus HD
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9944
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52482
 
-#EXTINF:-1,[01] |RO| LOOK SPORT 2 HD
+#EXTINF:-1,[01] RO: Look Sport
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/109437
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52483
 
-#EXTINF:-1,[01] |RO| LOOK SPORT 3 HD
+#EXTINF:-1,[01] RO: Look Sport HD
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/110500
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52484
 
-#EXTINF:-1,[01] |RO| LOOK SPORT HD
+#EXTINF:-1,[01] RO: Look Tv
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9943
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52577
 
-#EXTINF:-1,[01] |RO| POP HBO TV SHOWS
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/483329
-
-#EXTINF:-1,[01] |RO| POP MOVIES ACTION
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491879
-
-#EXTINF:-1,[01] |RO| POP MOVIES ADVENTURE
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491880
-
-#EXTINF:-1,[01] |RO| POP MOVIES ANIMATION
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/315901
-
-#EXTINF:-1,[01] |RO| POP MOVIES BIOGRAPHY
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491881
-
-#EXTINF:-1,[01] |RO| POP MOVIES COMEDY
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491882
-
-#EXTINF:-1,[01] |RO| POP MOVIES CRIME
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491884
-
-#EXTINF:-1,[01] |RO| POP MOVIES DOCUMENTARY
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491883
-
-#EXTINF:-1,[01] |RO| POP MOVIES DRAMA
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491885
-
-#EXTINF:-1,[01] |RO| POP MOVIES FAMILY
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/314855
-
-#EXTINF:-1,[01] |RO| POP MOVIES FANTASY
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491886
-
-#EXTINF:-1,[01] |RO| POP MOVIES FAST AND FURIOUS
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/486252
-
-#EXTINF:-1,[01] |RO| POP MOVIES HORROR
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491887
-
-#EXTINF:-1,[01] |RO| POP MOVIES MISSION IMPOSSIBLE
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/484394
-
-#EXTINF:-1,[01] |RO| POP MOVIES NETFLIX
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/528098
-
-#EXTINF:-1,[01] |RO| POP MOVIES ROMANCE
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491888
-
-#EXTINF:-1,[01] |RO| POP MOVIES SCIENCE FICTION
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/491889
-
-#EXTINF:-1,[01] |RO| POP MOVIES THRILLER
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/492013
-
-#EXTINF:-1,[01] |RO| POP MOVIES WAR
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/492014
-
-#EXTINF:-1,[01] |RO| POP MOVIES WESTERN
-#EXTGRP:movies
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/492015
-
-#EXTINF:-1,[01] |RO| Prima Sport 1 HD
+#EXTINF:-1,[01] RO: Telekom Sport 1
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457812
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52613
 
-#EXTINF:-1,[01] |RO| Prima Sport 2 HD
+#EXTINF:-1,[01] RO: Telekom Sport 2
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457813
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52614
 
-#EXTINF:-1,[01] |RO| Prima Sport 3 HD
+#EXTINF:-1,[01] RO: Telekom Sport 3
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457814
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52615
 
-#EXTINF:-1,[01] |RO| Prima Sport 4 HD
+#EXTINF:-1,[01] RO: Telekom Sport 4
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/457815
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52616
 
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 1
+#EXTINF:-1,[01] RO: Telekom Sport 5  [Live During Events Only]
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9942
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52617
 
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 2
+#EXTINF:-1,[01] RO: Telekom Sport 6  [Live During Events Only]
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9941
+http://1.revportal.eu/mag00:1A:79:59:32:9D/l1zCzmWlRd/52618
 
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 3
-#EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9940
+#EXTINF:-1,[02] RO: Cinemaraton
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52429
 
-#EXTINF:-1,[01] |RO| TELEKOM SPORT 4
+#EXTINF:-1,[02] RO: Cinemax 1
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52430
+
+#EXTINF:-1,[02] RO: Cinemax 1 FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52539
+
+#EXTINF:-1,[02] RO: Cinemax 2
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52431
+
+#EXTINF:-1,[02] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52540
+
+#EXTINF:-1,[02] RO: Cinethronix
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52541
+
+#EXTINF:-1,[02] RO: DIGI Animal World
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52432
+
+#EXTINF:-1,[02] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52547
+
+#EXTINF:-1,[02] RO: DIGI Life
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52433
+
+#EXTINF:-1,[02] RO: DIGI Sport 1
 #EXTGRP:sports
-http://line.spainott.site/GXjKbB0vLygaMD4/KP8YFXI6CL/9939
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52434
+
+#EXTINF:-1,[02] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52435
+
+#EXTINF:-1,[02] RO: DIGI Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52436
+
+#EXTINF:-1,[02] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52437
+
+#EXTINF:-1,[02] RO: DIGI Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52438
+
+#EXTINF:-1,[02] RO: DIGI World
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52439
+
+#EXTINF:-1,[02] RO: Digi 24
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52549
+
+#EXTINF:-1,[02] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52550
+
+#EXTINF:-1,[02] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52551
+
+#EXTINF:-1,[02] RO: Digi Animal World FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52552
+
+#EXTINF:-1,[02] RO: Digi Life FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52553
+
+#EXTINF:-1,[02] RO: Digi Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52442
+
+#EXTINF:-1,[02] RO: Digi Sport 3 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52554
+
+#EXTINF:-1,[02] RO: Digi Sport 4 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52555
+
+#EXTINF:-1,[02] RO: Digi World FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52556
+
+#EXTINF:-1,[02] RO: DocuBox
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52451
+
+#EXTINF:-1,[02] RO: FILM NOW
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52459
+
+#EXTINF:-1,[02] RO: Film Now FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52565
+
+#EXTINF:-1,[02] RO: HBO
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52467
+
+#EXTINF:-1,[02] RO: HBO 2
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52471
+
+#EXTINF:-1,[02] RO: HBO 2 HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52571
+
+#EXTINF:-1,[02] RO: HBO 3
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52468
+
+#EXTINF:-1,[02] RO: HBO 3 HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52469
+
+#EXTINF:-1,[02] RO: HBO HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52470
+
+#EXTINF:-1,[02] RO: Look Plus
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52481
+
+#EXTINF:-1,[02] RO: Look Plus HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52482
+
+#EXTINF:-1,[02] RO: Look Sport
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52483
+
+#EXTINF:-1,[02] RO: Look Sport HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52484
+
+#EXTINF:-1,[02] RO: Look Tv
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52577
+
+#EXTINF:-1,[02] RO: Telekom Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52613
+
+#EXTINF:-1,[02] RO: Telekom Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52614
+
+#EXTINF:-1,[02] RO: Telekom Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52615
+
+#EXTINF:-1,[02] RO: Telekom Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52616
+
+#EXTINF:-1,[02] RO: Telekom Sport 5  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52617
+
+#EXTINF:-1,[02] RO: Telekom Sport 6  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_mJdv7Z/nEIpGnwnfl/52618
+
+#EXTINF:-1,[03] RO: Cinemaraton
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52429
+
+#EXTINF:-1,[03] RO: Cinemax 1
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52430
+
+#EXTINF:-1,[03] RO: Cinemax 1 FHD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52539
+
+#EXTINF:-1,[03] RO: Cinemax 2
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52431
+
+#EXTINF:-1,[03] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52540
+
+#EXTINF:-1,[03] RO: Cinethronix
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52541
+
+#EXTINF:-1,[03] RO: DIGI Animal World
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52432
+
+#EXTINF:-1,[03] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52547
+
+#EXTINF:-1,[03] RO: DIGI Life
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52433
+
+#EXTINF:-1,[03] RO: DIGI Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52434
+
+#EXTINF:-1,[03] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52435
+
+#EXTINF:-1,[03] RO: DIGI Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52436
+
+#EXTINF:-1,[03] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52437
+
+#EXTINF:-1,[03] RO: DIGI Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52438
+
+#EXTINF:-1,[03] RO: DIGI World
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52439
+
+#EXTINF:-1,[03] RO: Digi 24
+#EXTGRP:unsorted
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52549
+
+#EXTINF:-1,[03] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52550
+
+#EXTINF:-1,[03] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52551
+
+#EXTINF:-1,[03] RO: Digi Animal World FHD
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52552
+
+#EXTINF:-1,[03] RO: Digi Life FHD
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52553
+
+#EXTINF:-1,[03] RO: Digi Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52442
+
+#EXTINF:-1,[03] RO: Digi Sport 3 HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52554
+
+#EXTINF:-1,[03] RO: Digi Sport 4 HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52555
+
+#EXTINF:-1,[03] RO: Digi World FHD
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52556
+
+#EXTINF:-1,[03] RO: DocuBox
+#EXTGRP:docs
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52451
+
+#EXTINF:-1,[03] RO: FILM NOW
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52459
+
+#EXTINF:-1,[03] RO: Film Now FHD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52565
+
+#EXTINF:-1,[03] RO: HBO
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52467
+
+#EXTINF:-1,[03] RO: HBO 2
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52471
+
+#EXTINF:-1,[03] RO: HBO 2 HD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52571
+
+#EXTINF:-1,[03] RO: HBO 3
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52468
+
+#EXTINF:-1,[03] RO: HBO 3 HD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52469
+
+#EXTINF:-1,[03] RO: HBO HD
+#EXTGRP:movies
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52470
+
+#EXTINF:-1,[03] RO: Look Plus
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52481
+
+#EXTINF:-1,[03] RO: Look Plus HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52482
+
+#EXTINF:-1,[03] RO: Look Sport
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52483
+
+#EXTINF:-1,[03] RO: Look Sport HD
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52484
+
+#EXTINF:-1,[03] RO: Look Tv
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52577
+
+#EXTINF:-1,[03] RO: Telekom Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52613
+
+#EXTINF:-1,[03] RO: Telekom Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52614
+
+#EXTINF:-1,[03] RO: Telekom Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52615
+
+#EXTINF:-1,[03] RO: Telekom Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52616
+
+#EXTINF:-1,[03] RO: Telekom Sport 5  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52617
+
+#EXTINF:-1,[03] RO: Telekom Sport 6  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/mag00:1A:79:6A:90:60/dKb0he6y4X/52618
+
+#EXTINF:-1,[04] RO: Cinemaraton
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52429
+
+#EXTINF:-1,[04] RO: Cinemax 1
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52430
+
+#EXTINF:-1,[04] RO: Cinemax 1 FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52539
+
+#EXTINF:-1,[04] RO: Cinemax 2
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52431
+
+#EXTINF:-1,[04] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52540
+
+#EXTINF:-1,[04] RO: Cinethronix
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52541
+
+#EXTINF:-1,[04] RO: DIGI Animal World
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52432
+
+#EXTINF:-1,[04] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52547
+
+#EXTINF:-1,[04] RO: DIGI Life
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52433
+
+#EXTINF:-1,[04] RO: DIGI Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52434
+
+#EXTINF:-1,[04] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52435
+
+#EXTINF:-1,[04] RO: DIGI Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52436
+
+#EXTINF:-1,[04] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52437
+
+#EXTINF:-1,[04] RO: DIGI Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52438
+
+#EXTINF:-1,[04] RO: DIGI World
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52439
+
+#EXTINF:-1,[04] RO: Digi 24
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52549
+
+#EXTINF:-1,[04] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52550
+
+#EXTINF:-1,[04] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52551
+
+#EXTINF:-1,[04] RO: Digi Animal World FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52552
+
+#EXTINF:-1,[04] RO: Digi Life FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52553
+
+#EXTINF:-1,[04] RO: Digi Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52442
+
+#EXTINF:-1,[04] RO: Digi Sport 3 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52554
+
+#EXTINF:-1,[04] RO: Digi Sport 4 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52555
+
+#EXTINF:-1,[04] RO: Digi World FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52556
+
+#EXTINF:-1,[04] RO: DocuBox
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52451
+
+#EXTINF:-1,[04] RO: FILM NOW
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52459
+
+#EXTINF:-1,[04] RO: Film Now FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52565
+
+#EXTINF:-1,[04] RO: HBO
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52467
+
+#EXTINF:-1,[04] RO: HBO 2
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52471
+
+#EXTINF:-1,[04] RO: HBO 2 HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52571
+
+#EXTINF:-1,[04] RO: HBO 3
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52468
+
+#EXTINF:-1,[04] RO: HBO 3 HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52469
+
+#EXTINF:-1,[04] RO: HBO HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52470
+
+#EXTINF:-1,[04] RO: Look Plus
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52481
+
+#EXTINF:-1,[04] RO: Look Plus HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52482
+
+#EXTINF:-1,[04] RO: Look Sport
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52483
+
+#EXTINF:-1,[04] RO: Look Sport HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52484
+
+#EXTINF:-1,[04] RO: Look Tv
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52577
+
+#EXTINF:-1,[04] RO: Telekom Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52613
+
+#EXTINF:-1,[04] RO: Telekom Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52614
+
+#EXTINF:-1,[04] RO: Telekom Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52615
+
+#EXTINF:-1,[04] RO: Telekom Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52616
+
+#EXTINF:-1,[04] RO: Telekom Sport 5  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52617
+
+#EXTINF:-1,[04] RO: Telekom Sport 6  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_nwxWyC/0mD1N9vQHx/52618
+
+#EXTINF:-1,[05] RO: Cinemaraton
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52429
+
+#EXTINF:-1,[05] RO: Cinemax 1
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52430
+
+#EXTINF:-1,[05] RO: Cinemax 1 FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52539
+
+#EXTINF:-1,[05] RO: Cinemax 2
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52431
+
+#EXTINF:-1,[05] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52540
+
+#EXTINF:-1,[05] RO: Cinethronix
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52541
+
+#EXTINF:-1,[05] RO: DIGI Animal World
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52432
+
+#EXTINF:-1,[05] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52547
+
+#EXTINF:-1,[05] RO: DIGI Life
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52433
+
+#EXTINF:-1,[05] RO: DIGI Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52434
+
+#EXTINF:-1,[05] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52435
+
+#EXTINF:-1,[05] RO: DIGI Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52436
+
+#EXTINF:-1,[05] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52437
+
+#EXTINF:-1,[05] RO: DIGI Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52438
+
+#EXTINF:-1,[05] RO: DIGI World
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52439
+
+#EXTINF:-1,[05] RO: Digi 24
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52549
+
+#EXTINF:-1,[05] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52550
+
+#EXTINF:-1,[05] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52551
+
+#EXTINF:-1,[05] RO: Digi Animal World FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52552
+
+#EXTINF:-1,[05] RO: Digi Life FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52553
+
+#EXTINF:-1,[05] RO: Digi Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52442
+
+#EXTINF:-1,[05] RO: Digi Sport 3 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52554
+
+#EXTINF:-1,[05] RO: Digi Sport 4 HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52555
+
+#EXTINF:-1,[05] RO: Digi World FHD
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52556
+
+#EXTINF:-1,[05] RO: DocuBox
+#EXTGRP:docs
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52451
+
+#EXTINF:-1,[05] RO: FILM NOW
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52459
+
+#EXTINF:-1,[05] RO: Film Now FHD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52565
+
+#EXTINF:-1,[05] RO: HBO
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52467
+
+#EXTINF:-1,[05] RO: HBO 2
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52471
+
+#EXTINF:-1,[05] RO: HBO 2 HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52571
+
+#EXTINF:-1,[05] RO: HBO 3
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52468
+
+#EXTINF:-1,[05] RO: HBO 3 HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52469
+
+#EXTINF:-1,[05] RO: HBO HD
+#EXTGRP:movies
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52470
+
+#EXTINF:-1,[05] RO: Look Plus
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52481
+
+#EXTINF:-1,[05] RO: Look Plus HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52482
+
+#EXTINF:-1,[05] RO: Look Sport
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52483
+
+#EXTINF:-1,[05] RO: Look Sport HD
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52484
+
+#EXTINF:-1,[05] RO: Look Tv
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52577
+
+#EXTINF:-1,[05] RO: Telekom Sport 1
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52613
+
+#EXTINF:-1,[05] RO: Telekom Sport 2
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52614
+
+#EXTINF:-1,[05] RO: Telekom Sport 3
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52615
+
+#EXTINF:-1,[05] RO: Telekom Sport 4
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52616
+
+#EXTINF:-1,[05] RO: Telekom Sport 5  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52617
+
+#EXTINF:-1,[05] RO: Telekom Sport 6  [Live During Events Only]
+#EXTGRP:sports
+http://1.revportal.eu/SPIDER_l6xFX3/IZn6l24y7z/52618
