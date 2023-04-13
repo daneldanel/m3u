@@ -1,4 +1,529 @@
 #EXTM3U
 
-#EXTINF:-1,Arcadia Tv
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:-1,[01] RO: Cinemaraton
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52429
+
+#EXTINF:-1,[01] RO: Cinemax 1
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52430
+
+#EXTINF:-1,[01] RO: Cinemax 1 FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52539
+
+#EXTINF:-1,[01] RO: Cinemax 2
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52431
+
+#EXTINF:-1,[01] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52540
+
+#EXTINF:-1,[01] RO: Cinethronix
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52541
+
+#EXTINF:-1,[01] RO: DIGI Animal World
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52432
+
+#EXTINF:-1,[01] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52547
+
+#EXTINF:-1,[01] RO: DIGI Life
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52433
+
+#EXTINF:-1,[01] RO: DIGI Sport 1
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52434
+
+#EXTINF:-1,[01] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52435
+
+#EXTINF:-1,[01] RO: DIGI Sport 2
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52436
+
+#EXTINF:-1,[01] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52437
+
+#EXTINF:-1,[01] RO: DIGI Sport 4
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52438
+
+#EXTINF:-1,[01] RO: DIGI World
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52439
+
+#EXTINF:-1,[01] RO: Digi 24
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52549
+
+#EXTINF:-1,[01] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52550
+
+#EXTINF:-1,[01] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52551
+
+#EXTINF:-1,[01] RO: Digi Animal World FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52552
+
+#EXTINF:-1,[01] RO: Digi Life FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52553
+
+#EXTINF:-1,[01] RO: Digi Sport 3
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52442
+
+#EXTINF:-1,[01] RO: Digi Sport 3 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52554
+
+#EXTINF:-1,[01] RO: Digi Sport 4 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52555
+
+#EXTINF:-1,[01] RO: Digi World FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52556
+
+#EXTINF:-1,[01] RO: DocuBox
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52451
+
+#EXTINF:-1,[01] RO: FILM NOW
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52459
+
+#EXTINF:-1,[01] RO: Film Now FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52565
+
+#EXTINF:-1,[01] RO: HBO
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52467
+
+#EXTINF:-1,[01] RO: HBO 2
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52471
+
+#EXTINF:-1,[01] RO: HBO 2 HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52571
+
+#EXTINF:-1,[01] RO: HBO 3
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52468
+
+#EXTINF:-1,[01] RO: HBO 3 HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52469
+
+#EXTINF:-1,[01] RO: HBO HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52470
+
+#EXTINF:-1,[01] RO: Look Plus
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52481
+
+#EXTINF:-1,[01] RO: Look Plus HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52482
+
+#EXTINF:-1,[01] RO: Look Sport
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52483
+
+#EXTINF:-1,[01] RO: Look Sport HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52484
+
+#EXTINF:-1,[01] RO: Look Tv
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52577
+
+#EXTINF:-1,[01] RO: Telekom Sport 1
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52613
+
+#EXTINF:-1,[01] RO: Telekom Sport 2
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52614
+
+#EXTINF:-1,[01] RO: Telekom Sport 3
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52615
+
+#EXTINF:-1,[01] RO: Telekom Sport 4
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52616
+
+#EXTINF:-1,[01] RO: Telekom Sport 5  [Live During Events Only]
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52617
+
+#EXTINF:-1,[01] RO: Telekom Sport 6  [Live During Events Only]
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_eqwdMj/FQtIcuqaNf/52618
+
+#EXTINF:-1,[02] RO: Cinemaraton
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52429
+
+#EXTINF:-1,[02] RO: Cinemax 1
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52430
+
+#EXTINF:-1,[02] RO: Cinemax 1 FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52539
+
+#EXTINF:-1,[02] RO: Cinemax 2
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52431
+
+#EXTINF:-1,[02] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52540
+
+#EXTINF:-1,[02] RO: Cinethronix
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52541
+
+#EXTINF:-1,[02] RO: DIGI Animal World
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52432
+
+#EXTINF:-1,[02] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52547
+
+#EXTINF:-1,[02] RO: DIGI Life
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52433
+
+#EXTINF:-1,[02] RO: DIGI Sport 1
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52434
+
+#EXTINF:-1,[02] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52435
+
+#EXTINF:-1,[02] RO: DIGI Sport 2
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52436
+
+#EXTINF:-1,[02] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52437
+
+#EXTINF:-1,[02] RO: DIGI Sport 4
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52438
+
+#EXTINF:-1,[02] RO: DIGI World
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52439
+
+#EXTINF:-1,[02] RO: Digi 24
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52549
+
+#EXTINF:-1,[02] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52550
+
+#EXTINF:-1,[02] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52551
+
+#EXTINF:-1,[02] RO: Digi Animal World FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52552
+
+#EXTINF:-1,[02] RO: Digi Life FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52553
+
+#EXTINF:-1,[02] RO: Digi Sport 3
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52442
+
+#EXTINF:-1,[02] RO: Digi Sport 3 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52554
+
+#EXTINF:-1,[02] RO: Digi Sport 4 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52555
+
+#EXTINF:-1,[02] RO: Digi World FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52556
+
+#EXTINF:-1,[02] RO: DocuBox
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52451
+
+#EXTINF:-1,[02] RO: FILM NOW
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52459
+
+#EXTINF:-1,[02] RO: Film Now FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52565
+
+#EXTINF:-1,[02] RO: HBO
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52467
+
+#EXTINF:-1,[02] RO: HBO 2
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52471
+
+#EXTINF:-1,[02] RO: HBO 2 HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52571
+
+#EXTINF:-1,[02] RO: HBO 3
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52468
+
+#EXTINF:-1,[02] RO: HBO 3 HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52469
+
+#EXTINF:-1,[02] RO: HBO HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52470
+
+#EXTINF:-1,[02] RO: Look Plus
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52481
+
+#EXTINF:-1,[02] RO: Look Plus HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52482
+
+#EXTINF:-1,[02] RO: Look Sport
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52483
+
+#EXTINF:-1,[02] RO: Look Sport HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52484
+
+#EXTINF:-1,[02] RO: Look Tv
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52577
+
+#EXTINF:-1,[02] RO: Telekom Sport 1
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52613
+
+#EXTINF:-1,[02] RO: Telekom Sport 2
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52614
+
+#EXTINF:-1,[02] RO: Telekom Sport 3
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52615
+
+#EXTINF:-1,[02] RO: Telekom Sport 4
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52616
+
+#EXTINF:-1,[02] RO: Telekom Sport 5  [Live During Events Only]
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52617
+
+#EXTINF:-1,[02] RO: Telekom Sport 6  [Live During Events Only]
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/SPIDER_r0vEXI/0sEF3utiiK/52618
+
+#EXTINF:-1,[03] RO: Cinemaraton
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52429
+
+#EXTINF:-1,[03] RO: Cinemax 1
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52430
+
+#EXTINF:-1,[03] RO: Cinemax 1 FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52539
+
+#EXTINF:-1,[03] RO: Cinemax 2
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52431
+
+#EXTINF:-1,[03] RO: Cinemax 2 FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52540
+
+#EXTINF:-1,[03] RO: Cinethronix
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52541
+
+#EXTINF:-1,[03] RO: DIGI Animal World
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52432
+
+#EXTINF:-1,[03] RO: DIGI FILIM HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52547
+
+#EXTINF:-1,[03] RO: DIGI Life
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52433
+
+#EXTINF:-1,[03] RO: DIGI Sport 1
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52434
+
+#EXTINF:-1,[03] RO: DIGI Sport 1 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52435
+
+#EXTINF:-1,[03] RO: DIGI Sport 2
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52436
+
+#EXTINF:-1,[03] RO: DIGI Sport 2 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52437
+
+#EXTINF:-1,[03] RO: DIGI Sport 4
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52438
+
+#EXTINF:-1,[03] RO: DIGI World
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52439
+
+#EXTINF:-1,[03] RO: Digi 24
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52549
+
+#EXTINF:-1,[03] RO: Digi 24 Craiova
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52550
+
+#EXTINF:-1,[03] RO: Digi 24 HD
+#EXTGRP:unsorted
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52551
+
+#EXTINF:-1,[03] RO: Digi Animal World FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52552
+
+#EXTINF:-1,[03] RO: Digi Life FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52553
+
+#EXTINF:-1,[03] RO: Digi Sport 3
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52442
+
+#EXTINF:-1,[03] RO: Digi Sport 3 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52554
+
+#EXTINF:-1,[03] RO: Digi Sport 4 HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52555
+
+#EXTINF:-1,[03] RO: Digi World FHD
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52556
+
+#EXTINF:-1,[03] RO: DocuBox
+#EXTGRP:docs
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52451
+
+#EXTINF:-1,[03] RO: FILM NOW
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52459
+
+#EXTINF:-1,[03] RO: Film Now FHD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52565
+
+#EXTINF:-1,[03] RO: HBO
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52467
+
+#EXTINF:-1,[03] RO: HBO 2
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52471
+
+#EXTINF:-1,[03] RO: HBO 2 HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52571
+
+#EXTINF:-1,[03] RO: HBO 3
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52468
+
+#EXTINF:-1,[03] RO: HBO 3 HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52469
+
+#EXTINF:-1,[03] RO: HBO HD
+#EXTGRP:movies
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52470
+
+#EXTINF:-1,[03] RO: Look Plus
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52481
+
+#EXTINF:-1,[03] RO: Look Plus HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52482
+
+#EXTINF:-1,[03] RO: Look Sport
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52483
+
+#EXTINF:-1,[03] RO: Look Sport HD
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52484
+
+#EXTINF:-1,[03] RO: Look Tv
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52577
+
+#EXTINF:-1,[03] RO: Telekom Sport 1
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52613
+
+#EXTINF:-1,[03] RO: Telekom Sport 2
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52614
+
+#EXTINF:-1,[03] RO: Telekom Sport 3
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52615
+
+#EXTINF:-1,[03] RO: Telekom Sport 4
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52616
+
+#EXTINF:-1,[03] RO: Telekom Sport 5  [Live During Events Only]
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52617
+
+#EXTINF:-1,[03] RO: Telekom Sport 6  [Live During Events Only]
+#EXTGRP:sports
+http://revteam9.offshorerev.cc/r6QFxU3U/QJNDQqoUiw/52618
